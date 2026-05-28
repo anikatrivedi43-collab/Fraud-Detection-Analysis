@@ -53,3 +53,6 @@ To analyze transaction data and build a machine learning model capable of detect
 # Conclusion
 This project improved understanding of machine learning, fraud detection techniques, data preprocessing, and model evaluation using Python.
 
+# Dataset Source:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
